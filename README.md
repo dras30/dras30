@@ -1,4 +1,4 @@
-## bem-vindo(a)! Me chamo Danilo Alves 🤝
+## Bem-vindo(a)! Me chamo Danilo Alves 🤝
 
 Sou apaixonado por tecnologia e um eterno aprendiz.
 
