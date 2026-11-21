@@ -2,11 +2,6 @@
 
 Sou apaixonado por tecnologia e um eterno aprendiz.
 
-### redes
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](schusterxd77@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-ramos-alves-3b355425a/)
-
 ### tecnologias do meu no dia a dia
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
